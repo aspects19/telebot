@@ -12,11 +12,11 @@
 
 This is a Telegram bot created using Python and PyTelegramBotAPI that allows users to reverage the bot facilities of telegram to get features such as AI image creation, text with AI and weather focast.
 
-## 🚀 How to Use
+## 🚀 How to make it your own
 
 1. Clone the repository to your local machine using ` git clone https://github.com/aspects19/telegram-bot`
 2. Install the dependencies using `pip install -r requirements.txt`
-3. Create a Telegram bot using [BotFather](https://core.telegram.org/bots#6-botfather) and get your bot token
+3. Create a Telegram bot using BotFather through its [BotFather Bot](https://t.me/botFather) and get your bot token
 4. Update the `main.py` file with your bot token
 5. Run the bot using `python main.py`
 
