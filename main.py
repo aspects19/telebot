@@ -5,8 +5,8 @@ import telebot
 from telebot import types, apihelper
 
 
-bot = telebot.TeleBot("7164315845:AAEUTeFjhukT-4yKabsOm57nc_yrM8nBM9Y")
-ACCUWEATHER_API_KEY = "xArFlO4D9JWAOcXsbAFAwW3qJrObc2q3" "Qeh1dKVuMMeoBAjH9eXHqruJ13L6vyJT"
+bot = telebot.TeleBot("7164315845:AAEUTeFjhukT-KabsOm57nc_yrM8nBM9Y") #Use your own
+ACCUWEATHER_API_KEY = "xArFlO4D9JWAOcXsbAFAwW3qJrObc2q3" "Qeh1dKVuMMeoBAjH9eruJ13L6vyJT" #use your own
 
 engine = None
 conversations = {}
