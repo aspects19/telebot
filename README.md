@@ -10,7 +10,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/aspects19/telebot)
 
 
-This is a Telegram bot created using Python and PyTelegramBotAPI that allows users to reverage the bot facilities of telegram to get features such as AI image creation, text with AI and weather focast.
+This is a Telegram bot created using Python and PyTelegramBotAPI that allows users to reverage the bot facilities of Telegram to get features such as AI image creation, text with AI and weather focast.
 
 ## 🚀 How to make it your own
 
