@@ -85,7 +85,7 @@ def requests_handler(message):
 
         if chat_id in conversations:
             prev_conversations = conversations[chat_id]
-            context = "\n".join(prev_conversations[-4:])  # Include the last four conversations
+            context = "\n".join(prev_conversations[-4:]) 
             prompt = f"{context}\nUser: {user_message}\n"
         else:
             prompt = f"User: {user_message}\n"
