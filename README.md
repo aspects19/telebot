@@ -1,4 +1,4 @@
-# 🔗 A full function personal Telegram assistant bot
+# 🔗 Personal Assistant Telegram bot
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aspects19/telebot/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/aspects19/telebot)
