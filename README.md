@@ -17,8 +17,11 @@ This is a Telegram bot created using Python and [Telebot](https://pypi.org/proje
 1. Clone the repository to your local machine using ` git clone https://github.com/aspects19/telegram-bot`
 2. Install the dependencies using `pip install -r requirements.txt`
 3. Create a Telegram bot using BotFather through its [BotFather Bot](https://t.me/botFather) and get your bot token
-4. Update the `main.py` file with your bot token
-5. Run the bot using `python main.py`
+4. Get your OpenAI token from [OpenAI](https://openai.com/index/openai-api/) and you [AccuWeatherApi](https://developer.accuweather.com/)
+
+5. Update the `main.py` file with your Telegram bot token, OpenAI API token and AccuWeather API.
+6. Run the bot using `python main.py`
+7. Test you bot by texting or sending the /start.
 
 Once the bot is running, users can interact with it by messaging it on Telegram. They can use the `/start` command to start using this bot.
 
